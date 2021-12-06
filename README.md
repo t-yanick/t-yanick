@@ -31,7 +31,7 @@ Here are some ideas to get you started:-->
 
 
 [linkedin]: https://www.linkedin.com/in/tazoh-yanick-tazoh/
-[website]: https://github.com/t-yanick
+[website]: www.t-yanick.tech
 
 
 
