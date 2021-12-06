@@ -11,7 +11,9 @@ Here are some ideas to get you started:-->
 <!--- 🤔 I’m looking for help with -->
 - 💬 Ask me about just anything
 - 📫 How to reach me:<br> 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website][<img align="left" alt="t-yanick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="t-yanick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
+
 - 😄 Pronouns: He/Him
 
 ### Languages and Tools
@@ -27,11 +29,11 @@ Here are some ideas to get you started:-->
 
 ---
 
-<img align="left" alt="sanadwj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=t-yanick&show_icons=true&hide_border=true" />
+<img align="left" alt="tazoh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=t-yanick&show_icons=true&hide_border=true" />
 
 
 [linkedin]: https://www.linkedin.com/in/tazoh-yanick-tazoh/
-[website]: www.t-yanick.tech
+[website]: https://www.github.com/t-yanick/
 
 
 
